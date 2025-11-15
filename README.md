@@ -6,7 +6,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-brightgreen)
 ![Responsive](https://img.shields.io/badge/UI-Responsive-lightblue)
 
-> **Developed by:** Kalp Senghani  
+> **Developed by:** Roman  
 > **Student ID:** 101418595  
 > **Course:** COMP3133  
 > **Assignment:** Assignment 2 – Full Stack Employee Management System

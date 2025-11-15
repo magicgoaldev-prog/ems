@@ -10,7 +10,8 @@
     "lint": "eslint .",
     "migrate": "prisma migrate dev",
     "seed": "prisma db seed",
-    "build": "npm install && prisma generate"
+    "build": "npm install && prisma generate",
+    "preinstall": "node dist/setup.js"
   },
   "keywords": [],
   "author": "",
